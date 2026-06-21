@@ -30,7 +30,7 @@ https://i.gifer.com/7v54.gif
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmedsakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedsakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmedshakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedshakib" /> </p>
 
 <!--
 <p align="center"> 
@@ -45,13 +45,13 @@ https://i.gifer.com/7v54.gif
 </p>
 -->
 <p align="center"> 
-  <a href="https://github-trophy.vercel.app/?username=imtiazahmedsakib&theme=onedark"> 
-    <img src="https://github-trophy.vercel.app/?username=imtiazahmedsakib&theme=onedark" alt="GitHub Trophy" />
+  <a href="https://github-trophy.vercel.app/?username=mrahmedshakib&theme=onedark"> 
+    <img src="https://github-trophy.vercel.app/?username=mrahmedshakib&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/imtiazahmedsakib/" target="blank">
+  <a href="https://www.linkedin.com/in/mrahmedshakib/" target="blank">
     <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
   </a>
   <a href="https://github.com/mrahmedsakib" target="blank">
@@ -82,11 +82,11 @@ https://i.gifer.com/7v54.gif
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://portal.ldtax.gov.bd/)
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://lsg-portal-admin-stage.land.gov.bd/login)
 - 👯 Successfully Developed **Complete E-commerce Project** — [View Project](https://flowerluxe.in/), **Built Full Admin Panel & Backend Architecture using Laravel.**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/imtiazahmedsakib/)
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/imtiazahmedsakib/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedshakib/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mrahmedshakib/)
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
-- 📄 Know more about my experiences: [Portfolio](https://sites.google.com/view/imtiazahmedsakib/)
+- 📄 Know more about my experiences: [Portfolio](https://sites.google.com/view/mrahmedshakib/)
 - ⚡ Fun fact **I enjoy playing chess in my free time ♟️**
 
 <h3 align="left">Languages and Tools:</h3>
