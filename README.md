@@ -30,7 +30,7 @@ https://i.gifer.com/7v54.gif
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmedshakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedshakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazahmedsakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedshakib" /> </p>
 
 <!--
 <p align="center"> 
@@ -45,27 +45,27 @@ https://i.gifer.com/7v54.gif
 </p>
 -->
 <p align="center"> 
-  <a href="https://github-trophy.vercel.app/?username=mrahmedshakib&theme=onedark"> 
-    <img src="https://github-trophy.vercel.app/?username=mrahmedshakib&theme=onedark" alt="GitHub Trophy" />
+  <a href="https://github-trophy.vercel.app/?username=imtiazahmedsakib&theme=onedark"> 
+    <img src="https://github-trophy.vercel.app/?username=imtiazahmedsakib&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mrahmedshakib/" target="blank">
+  <a href="https://www.linkedin.com/in/imtiazahmedsakib/" target="blank">
     <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
   </a>
-  <a href="https://github.com/mrahmedsakib" target="blank">
+  <a href="https://github.com/imtiazahmedsakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40github-%23D3D3D3?style=for-the-badge&logo=github&logoColor=%23D3D3D3" alt="github"/>
   </a>
-  <a href="https://www.facebook.com/engrr.imtiazahmed" target="blank">
+  <a href="https://www.facebook.com/mrahmedshakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40facebook-%23055C9D?style=for-the-badge&logo=facebook&logoColor=blue" alt="facebook"/>
   </a> 
-  <a href="https://www.instagram.com/engrr.imtiazahmed" target="blank">
+  <a href="https://www.instagram.com/mrahmedshakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40instagram-%23FF7F7F?style=for-the-badge&logo=instagram&logoColor=%23FF7F7F" alt="instagram logo"/>
   </a>
-  <a href="https://twitter.com/ahmedsakib61" target="blank">
+  <!-- <a href="https://twitter.com/ahmedsakib61" target="blank">
     <img src="https://img.shields.io/badge/follow-%40twitter-%2368BBE3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
-  </a>
+  </a> -->
 </p>
 
 
@@ -82,11 +82,11 @@ https://i.gifer.com/7v54.gif
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://portal.ldtax.gov.bd/)
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://lsg-portal-admin-stage.land.gov.bd/login)
 - 👯 Successfully Developed **Complete E-commerce Project** — [View Project](https://flowerluxe.in/), **Built Full Admin Panel & Backend Architecture using Laravel.**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedshakib/)
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mrahmedshakib/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/imtiazahmedsakib/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/imtiazahmedsakib/)
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
-- 📄 Know more about my experiences: [Portfolio](https://sites.google.com/view/mrahmedshakib/)
+- 📄 Know more about my experiences: [Portfolio](https://sites.google.com/view/imtiazahmedsakib/)
 - ⚡ Fun fact **I enjoy playing chess in my free time ♟️**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -177,9 +177,9 @@ https://i.gifer.com/7v54.gif
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <img href="https://www.linkedin.com/in/mrahmedsakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
-  <img href="https://www.instagram.com/mrahmedsakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
-  <img href="https://www.facebook.com/mrahmedsakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo"  />
+  <img href="https://www.linkedin.com/in/imtiazahmedsakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
+  <img href="https://www.instagram.com/mrahmedshakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
+  <img href="https://www.facebook.com/mrahmedshakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="35" alt="telegram logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="35" alt="twitter logo"  />
